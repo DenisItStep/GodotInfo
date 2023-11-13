@@ -17,4 +17,20 @@ Godot is an advanced, feature packed, multi-platform 2D and 3D open source game 
 9. [**Plugins**](#plugins)
 10. [**Misc**](#misc)
 
+***
+
 ## Godot Engine
+### Official
+
+- 💾[Godot Engine](https://godotengine.org/)
+- 📜[Godot Docs](https://docs.godotengine.org/)
+- 💾[Standalone Version](http://godotengine.org/download)
+- 💾[Steam Version](https://store.steampowered.com/app/404790)
+- 💾[itch.io Version](https://godotengine.itch.io/godot)
+- 💾[Epic Games Store](https://store.epicgames.com/ru/p/godot-engine)
+- 💡[Ask Questions](http://godotengine.org/qa/)
+- 🕹️[Games Showcase](https://godotengine.org/showcase)
+- 💰[Make a Donation](http://godotengine.org/donate)
+- 🛠️[Report Engine Bugs](https://github.com/godotengine/godot)
+- 🙏[Improvement Proposals](https://github.com/godotengine/godot-proposals)
+
